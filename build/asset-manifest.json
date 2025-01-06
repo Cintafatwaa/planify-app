@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/planify-app/static/css/main.82c3f2ed.css",
+    "main.js": "/planify-app/static/js/main.b93dc9f7.js",
+    "static/js/488.4d1e1f12.chunk.js": "/planify-app/static/js/488.4d1e1f12.chunk.js",
+    "static/media/beranda.png": "/planify-app/static/media/beranda.a82c27ae3fd45b48eb86.png",
+    "static/media/logo.png": "/planify-app/static/media/logo.e13b461e197d3fd30c4e.png",
+    "index.html": "/planify-app/index.html",
+    "main.82c3f2ed.css.map": "/planify-app/static/css/main.82c3f2ed.css.map",
+    "main.b93dc9f7.js.map": "/planify-app/static/js/main.b93dc9f7.js.map",
+    "488.4d1e1f12.chunk.js.map": "/planify-app/static/js/488.4d1e1f12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82c3f2ed.css",
+    "static/js/main.b93dc9f7.js"
+  ]
+}
